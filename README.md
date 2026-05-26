@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm a final year  b.tech student<br>my name is vinay chaudhary<br>i'm studying in gla university , mathura
+Name:Vinay Chaudhary<br>University:GLA University,Mathura<br>Degree:B.Tech(Final year)<br>Status:Open to Internships and Collaborations<br>Passion:Building Scalable Web Application
 
 
 # 💻 Tech Stack:
